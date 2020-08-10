@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_AssetScanner.864600215.00" t="ExcludeRecursive" />
+    <e p="F:\AssetScannerEditor\AssetScanner" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="AssetScannerEditor" t="Include">
+            <e p="Base" t="Include">
+              <e p="AseBaseSingleTon.cs" t="Include" />
+            </e>
+            <e p="Defs" t="Include">
+              <e p="AseUIDef.cs" t="Include" />
+            </e>
+            <e p="Extension" t="Include">
+              <e p="AseFileInfoExtension.cs" t="Include" />
+              <e p="AseStringExtension.cs" t="Include" />
+            </e>
+            <e p="Settings" t="Include">
+              <e p="AseSetting.cs" t="Include" />
+            </e>
+            <e p="Windows" t="Include">
+              <e p="BaseView" t="Include">
+                <e p="AseBaseAssetTreeModel.cs" t="Include" />
+                <e p="AseBaseController.cs" t="Include" />
+                <e p="AseBaseModel.cs" t="Include" />
+                <e p="AseBaseTreeView.cs" t="Include" />
+                <e p="MultiColumnHeader" t="Include">
+                  <e p="AseMultiColumnHeader.cs" t="Include" />
+                </e>
+                <e p="TreeViewItem" t="Include">
+                  <e p="AseWBTAssetItem.cs" t="Include" />
+                  <e p="AseWBTAssetModel.cs" t="Include" />
+                  <e p="AseWBTBaseItem.cs" t="Include" />
+                  <e p="AseWBTFolderItem.cs" t="Include" />
+                  <e p="AseWBTFolderModel.cs" t="Include" />
+                  <e p="IColGUI.cs" t="Include" />
+                </e>
+              </e>
+              <e p="DependenciesCheckWindow" t="Include">
+                <e p="AseWDeController.cs" t="Include" />
+                <e p="AseWDeModel.cs" t="Include" />
+                <e p="AseWDeView.cs" t="Include" />
+                <e p="AseWDeWindow.cs" t="Include" />
+                <e p="TreeViewItem" t="Include">
+                  <e p="AseWDeTDepAssetItem.cs" t="Include" />
+                  <e p="AseWDeTDepAssetModel.cs" t="Include" />
+                  <e p="AseWDeTRefAssetItem.cs" t="Include" />
+                  <e p="AseWDeTRefAssetModel.cs" t="Include" />
+                </e>
+              </e>
+              <e p="DuplicateCheckWindow" t="Include">
+                <e p="AseWDuController.cs" t="Include" />
+                <e p="AseWDuModel.cs" t="Include" />
+                <e p="AseWDuView.cs" t="Include" />
+                <e p="AseWDuWindow.cs" t="Include" />
+                <e p="TreeViewItem" t="Include">
+                  <e p="AseWDuTDepAssetItem.cs" t="Include" />
+                  <e p="AseWDuTDepAssetModel.cs" t="Include" />
+                  <e p="AseWDuTGroupItem.cs" t="Include" />
+                  <e p="AseWDuTGroupModel.cs" t="Include" />
+                </e>
+              </e>
+              <e p="MainWindow" t="Include">
+                <e p="AseMainWindow.cs" t="Include" />
+              </e>
+              <e p="ReferenceCheckWindow" t="Include">
+                <e p="AseWRController.cs" t="Include" />
+                <e p="AseWRModel.cs" t="Include" />
+                <e p="AseWRView.cs" t="Include" />
+                <e p="AseWRWindow.cs" t="Include" />
+                <e p="TreeViewItem" t="Include">
+                  <e p="AseWRTDepAssetItem.cs" t="Include" />
+                  <e p="AseWRTDepAssetModel.cs" t="Include" />
+                  <e p="AseWRTRefAssetItem.cs" t="Include" />
+                  <e p="AseWRTRefAssetModel.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="AssetScanner.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
