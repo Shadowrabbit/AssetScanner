@@ -101,7 +101,7 @@ public class AseWRWindow : EditorWindow
     private void SortOutAsset() {
         //过滤出需要移动的资源文件
         var assetsNeedToMove = _assetTreeControllerRefCheck.AssetTreeModel.GetDiffRefModelAssetList()
-            .Where(x => !x.currentFolder.IsInPubFolder());
+            .Where(x => !x.CurrentFolder.IsInPubFolder());
         try {
             var assetToMoveList = assetsNeedToMove.ToList();
             for (var i = 0; i < assetToMoveList.Count; i++) {

@@ -15,7 +15,7 @@ public class AseWDeModel : AseBaseAssetTreeModel
         BuildFolderTree(modelFolderRoot); //构建目录树
         foreach (var assetModel in refAssetModelList) {
             //关联路径与资源
-            var currentFolder = assetModel.currentFolder;
+            var currentFolder = assetModel.CurrentFolder;
             if (!modelFolderMap.ContainsKey(currentFolder)) {
                 Debug.LogError("找不到目录:" + currentFolder);
                 return;

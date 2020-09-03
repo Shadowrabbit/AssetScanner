@@ -24,7 +24,7 @@ public class AseWRTRefAssetModel : AseWBTAssetModel
                     return name;
                 case 2:
                     //所在路径
-                    return currentFolder;
+                    return CurrentFolder;
             }
 
             return string.Empty;
